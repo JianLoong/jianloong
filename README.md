@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Reddit Visualisation (https://github.com/JianLoong/aita)
 - 🌱 I’m currently learning Go
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JianLoong&show_icons=true&layout=compact&hide_rank=true" />
