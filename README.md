@@ -3,11 +3,12 @@
 - 🔭 I’m currently working on my Reddit Visualisation (https://github.com/JianLoong/aita)
 - 🌱 I’m currently learning Go
 
+![](./profile-3d-contrib/profile-green-animate.svg)
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JianLoong&show_icons=true&layout=compact&hide_rank=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JianLoong&layout=compact&hide=C%23,javascript,css,scss,html" />
-</div>
+</div> -->
 
 <!--
 **JianLoong/jianloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
