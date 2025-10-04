@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my Reddit Visualisation (https://github.com/JianLoong/aita)
-- [Click me](https://jian.sh/aita/)
+- [Click me](https://pangrammer.dev/aita/)
 - 🌱 I’m currently learning Go
 
 
