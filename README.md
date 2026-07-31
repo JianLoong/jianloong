@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Reddit Visualisation (https://github.com/JianLoong/aita)
-- [Click me](https://pangrammer.dev/aita/)
-- 🌱 I’m currently learning Go
-
 
 <!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=JianLoong&show_icons=true&layout=compact&hide_rank=true" />
